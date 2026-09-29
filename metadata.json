@@ -1,0 +1,6 @@
+{
+  "name": "Veritas Examination System",
+  "description": "An online examination and academic assessment platform featuring timed proctored testing, multi-format questions, automated grading diagnostics, and an instructor exam builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
